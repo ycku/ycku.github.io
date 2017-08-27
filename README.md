@@ -1,18 +1,2 @@
-### computer science
-
----
-
-### philosophy
-
----
-
-### triathlon
-
-<iframe height='160' width='90%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/15266496/activity-summary/2be68f43e7a8f765940f99ab856f66ff43a422b6'></iframe>
-
----
-
-### photography
-
----
-### ycku.csie.org
+### [Coding with ice drip coffee](https://github.com/ycku)
+在 GitHub profile 的自介中寫下這段話，因為我喜歡冰滴咖啡。喜歡自己花 8 小時，慢慢滴下 300 ml 的醇厚。Computer Science 在我的心目中也是相同的概念，不論程式或是文字，都是純淬且誠實。
