@@ -1,5 +1,4 @@
-> Coding with ice drip coffee
-
+### Coding with ice drip coffee
 
 ### NAME
  yc.ku - Yung-Chung Ku (古永忠)
