@@ -23,4 +23,5 @@ $ man ycku
      ycku <ycku@csie.org>
 
 ### SEE ALSO
-* [PostgreSQL Taiwan User Group](https://pgsql-tw.github.io/), [pgsql-tw@GitHub](https://github.com/pgsql-tw).
+[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/pipergu)
+[![PostgreSQL台灣使用者社群](https://img.shields.io/badge/pgsql--tw-GitHub-blue.svg)](https://github.com/pgsql-tw).
