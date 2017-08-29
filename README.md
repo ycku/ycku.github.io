@@ -13,6 +13,8 @@ $ man ycku
 因為我喜歡冰滴咖啡。喜歡自己花 8 小時，慢慢滴下 300 ml 的醇厚。Computer Science 在我的心目中也是相同的概念，不論程式或是文字，都是純淬且誠實。
 #### -p [Photography-is-my-second-language](https://www.flickr.com/people/pipergu/)
 幸好巧遇了攝影，能夠用影像說話。喜歡黑白多於彩色，因為能擁有更深刻的層次感；喜歡緩慢的節奏，思考自己是否看見了不一樣的世界。
+#### -t [To-be-simple-is-to-be-great](http://pipergu.blogspot.tw/)
+古宅，是完全的自我，為了不失去靈魂而存在。
 
 ### BUGS
 老古板一個。
@@ -21,4 +23,4 @@ $ man ycku
      ycku <ycku@csie.org>
 
 ### SEE ALSO
-     
+* [PostgreSQL Taiwan User Group](https://pgsql-tw.github.io/), [pgsql-tw@GitHub](https://github.com/pgsql-tw).
