@@ -1,3 +1,7 @@
+![Doctor of Philosophy, National Taiwan University](https://img.shields.io/badge/Ph.D.-National%20Taiwan%20University-blue.svg)
+![Engineer, Insitute of Information Industry](https://img.shields.io/badge/Engineer-III-blue.svg)
+![Film Photographer](https://img.shields.io/badge/Film-Photographer-red.svg)
+
 ```
 $ man ycku
 ```
