@@ -24,4 +24,4 @@ $ man ycku
 
 ### SEE ALSO
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/pipergu)
-[![PostgreSQL台灣使用者社群](https://img.shields.io/badge/pgsql--tw-GitHub-blue.svg)](https://github.com/pgsql-tw).
+[![PostgreSQL台灣使用者社群](https://img.shields.io/badge/pgsql--tw-GitHub-blue.svg)](https://github.com/pgsql-tw)
