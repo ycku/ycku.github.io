@@ -4,7 +4,8 @@
 ![底片攝影](https://img.shields.io/badge/Film-Love-red.svg)
 ![鐵人三項](https://img.shields.io/badge/Triathlon-Enjoy-brightgreen.svg)
 ![高氧潛水員](https://img.shields.io/badge/Enriched%20Air-Scuba-yellow.svg)
-![Coffee](https://img.shields.io/badge/手沖咖啡-文青-brightgreen.svg)
+![Coffee](https://img.shields.io/badge/手沖咖啡-隨興-brightgreen.svg)
+![NBA2K](https://img.shields.io/badge/Point%20Guard-NBA2K-red.svg)
 
 ```
 $ man ycku
