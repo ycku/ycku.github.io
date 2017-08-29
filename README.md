@@ -1,6 +1,8 @@
-![Doctor of Philosophy, National Taiwan University](https://img.shields.io/badge/Ph.D.-National%20Taiwan%20University-blue.svg)
-![Engineer, Insitute of Information Industry](https://img.shields.io/badge/Engineer-III-blue.svg)
-![Film Photographer](https://img.shields.io/badge/Film-Photographer-red.svg)
+![國立臺灣大學博士](https://img.shields.io/badge/Ph.D.-National%20Taiwan%20University-blue.svg)
+![資策會工程師](https://img.shields.io/badge/Engineer-III-blue.svg)
+![底片攝影](https://img.shields.io/badge/Film-Photographer-red.svg)
+![鐵人三項](https://img.shields.io/badge/3 hours-Triathlon-brightgreen.svg)
+![高氧潛水員](https://img.shields.io/badge/Enriched%20Air-Scuba-brightgreen.svg)
 
 ```
 $ man ycku
@@ -19,6 +21,7 @@ $ man ycku
 幸好巧遇了攝影，能夠用影像說話。喜歡黑白多於彩色，因為能擁有更深刻的層次感；喜歡緩慢的節奏，思考自己是否看見了不一樣的世界。
 #### -t [To-be-simple-is-to-be-great](http://pipergu.blogspot.tw/)
 古宅，是完全的自我，為了不失去靈魂而存在。
+
 
 ### BUGS
 老古板一個。
