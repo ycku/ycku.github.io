@@ -7,10 +7,6 @@
 ![Coffee](https://img.shields.io/badge/手沖咖啡-心情-brightgreen.svg)
 ![NBA2K](https://img.shields.io/badge/Point%20Guard-NBA2K-red.svg)
 
-```
-$ man ycku
-```
-
 ### NAME
      ycku - Yung-Chung Ku (古永忠)
 
