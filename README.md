@@ -1,9 +1,10 @@
 ![國立臺灣大學博士](https://img.shields.io/badge/Ph.D.-National%20Taiwan%20University-blue.svg)
 ![資策會工程師](https://img.shields.io/badge/Engineer-III-blue.svg)
 ![資料庫系統](https://img.shields.io/badge/Distributed-Database-orange.svg)
-![底片攝影](https://img.shields.io/badge/Film-Photographer-red.svg)
-![鐵人三項](https://img.shields.io/badge/113K-Triathlon-brightgreen.svg)
+![底片攝影](https://img.shields.io/badge/Film-Love-red.svg)
+![鐵人三項](https://img.shields.io/badge/Triathlon-Enjoy-brightgreen.svg)
 ![高氧潛水員](https://img.shields.io/badge/Enriched%20Air-Scuba-yellow.svg)
+![Coffee](https://img.shields.io/badge/手沖咖啡-文青-brightgreen.svg)
 
 ```
 $ man ycku
