@@ -25,7 +25,7 @@
 老古板一個。
 
 ### AUTHOR
-     ycku <ycku@csie.org>
+![ycku@csie.org](https://img.shields.io/badge/ycku-%40csie.org-lightgrey.svg)
 
 ### SEE ALSO
 [![Twitter Follow](https://img.shields.io/twitter/follow/pipergu.svg?style=social&label=Follow)](https://twitter.com/pipergu)
