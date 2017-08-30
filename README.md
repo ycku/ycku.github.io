@@ -30,5 +30,5 @@
 
 ### SEE ALSO
 [![Twitter Follow](https://img.shields.io/twitter/follow/pipergu.svg?style=social&label=Follow)](https://twitter.com/pipergu)
-[![PostgreSQL小島故事](https://img.shields.io/badge/小島故事-PostgreSQL-blue.svg)](https://github.com/pgsql-tw)
+[![PostgreSQL小島故事](https://img.shields.io/badge/小島故事-PostgreSQL-blue.svg)](https://pgsql-tw.github.io/island/)
 [![PostgreSQL台灣使用者社群](https://img.shields.io/badge/台灣使用者社群-PostgreSQL-blue.svg)](https://pgsql-tw.github.io/)
