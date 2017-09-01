@@ -14,3 +14,7 @@ $(document).ready(function() {
 
 <pre><code id="sample" file="sample.py" class="python"></code></pre>
 <pre><code file="main.c" class="c"></code></pre>
+<code>
+$var="Hello World";
+print $var;
+</code>
