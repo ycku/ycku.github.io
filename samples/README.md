@@ -1,7 +1,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/languages/go.min.js"></script>
 <script>
-hljs.initHighlightingOnLoad();
 $(document).ready(function() {
 	code_list=document.getElementsByTagName("code");
 	for(var i=0;i<code_list.length;i++) {
