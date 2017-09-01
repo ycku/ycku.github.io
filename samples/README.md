@@ -13,7 +13,7 @@ $(document).ready(function() {
 
 </script>
 
-<pre><code id="sample" file="sample.py" class="python"></code></pre>
+<pre><code id="sample" file="sample.py" class="Python"></code></pre>
 <pre><code file="main.c" class="c"></code></pre>
 <pre><code class="php">
 $var="Hello World";
