@@ -5,8 +5,8 @@ $(document).ready(function() {
 	code_list=document.getElementsByTagName("code");
 	for(var i=0;i<code_list.length;i++) {
 		$(code_list[i]).load(code_list[i].getAttribute("file"));
-		$(code_list[i]).highlightBlock(this);
 	}
+	initHighlighting();
 });
 
 </script>
