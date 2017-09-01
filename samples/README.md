@@ -1,9 +1,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="https://highlightjs.org/static/highlight.pack.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
+<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
 <script>
 $(document).ready(function() {
-	code_list=document.getElementsByTagName("code");
+	code_list=document.getElementsByTagName("pre");
 	for(var i=0;i<code_list.length;i++) {
 		$(code_list[i]).load(code_list[i].getAttribute("file"));
 	}
@@ -12,9 +11,9 @@ $(document).ready(function() {
 
 </script>
 
-<pre><code id="sample" file="sample.py" class="Python"></code></pre>
-<pre><code file="main.c" class="c"></code></pre>
-<pre><code class="php">
+<pre id="sample" file="sample.py" class="prettyprint"></pre>
+<pre file="main.c" class="prettyprint"></pre>
+<pre class="prettyprint">
 $var="Hello World";
 print $var;
-</code></pre>
+</pre>
