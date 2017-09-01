@@ -11,8 +11,8 @@ $(document).ready(function() {
 
 </script>
 
-<pre id="sample" file="sample.py" class="prettyprint"></pre>
-<pre file="main.c" class="prettyprint"></pre>
+<pre id="sample" file="sample.py" class="prettyprint lang-py"></pre>
+<pre file="main.c" class="prettyprint lang-c"></pre>
 <pre class="prettyprint">
 $var="Hello World";
 print $var;
