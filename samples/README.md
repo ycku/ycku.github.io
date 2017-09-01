@@ -13,7 +13,7 @@ $(document).ready(function() {
 
 <pre id="sample" file="sample.py" class="prettyprint lang-py"></pre>
 <pre file="main.c" class="prettyprint lang-c"></pre>
-<pre class="prettyprint">
+<pre class="prettyprint lang-php">
 $var="Hello World";
 print $var;
 </pre>
