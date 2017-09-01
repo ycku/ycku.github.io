@@ -16,5 +16,5 @@ $(document).ready(function() {
 
 </script>
 
-<pre id="sample" file="sample.py"></pre>
-<pre file="main.c"></pre>
+<pre id="sample" file="sample.py" class="python"></pre>
+<pre file="main.c" class="c"></pre>
