@@ -15,7 +15,7 @@ $(document).ready(function() {
 
 <pre><code id="sample" file="sample.py" class="python"></code></pre>
 <pre><code file="main.c" class="c"></code></pre>
-<pre><code>
+<pre><code class="php">
 $var="Hello World";
 print $var;
 </code></pre>
