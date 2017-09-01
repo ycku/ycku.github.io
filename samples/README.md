@@ -1,10 +1,17 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/languages/go.min.js"></script>
 <script>
 $(document).ready(function() {
 	code_list=document.getElementsByTagName("pre");
 	for(var i=0;i<code_list.length;i++) {
 		$(code_list[i]).load(code_list[i].getAttribute("file"));
 	}
+});
+
+$(document).ready(function() {
+  $('pre code').each(function(i, block) {
+    hljs.highlightBlock(block);
+  });
 });
 
 </script>
