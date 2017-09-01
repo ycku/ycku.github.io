@@ -6,7 +6,7 @@ $(document).ready(function() {
 	for(var i=0;i<code_list.length;i++) {
 		$(code_list[i]).load(code_list[i].getAttribute("file"));
 	}
-	initHighlighting();
+	hljs.initHighlighting();
 });
 
 </script>
