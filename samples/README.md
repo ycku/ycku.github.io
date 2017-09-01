@@ -9,12 +9,6 @@ $(document).ready(function() {
 	}
 });
 
-$(document).ready(function() {
-  $('pre code').each(function(i, block) {
-    hljs.highlightBlock(block);
-  });
-});
-
 </script>
 
 <pre><code id="sample" file="sample.py" class="python"></code></pre>
