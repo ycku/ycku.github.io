@@ -16,6 +16,7 @@
 ### OPTIONS
 #### -c [Coding-with-ice-drip-coffee](https://github.com/ycku/) 
 [![PostgreSQL正體中文使用手冊](https://img.shields.io/badge/正體中文使用手冊-PostgreSQL-blue.svg)](https://www.gitbook.com/book/pgsql-tw/documents/details)
+[![NotoCJK Gitbook Plugin](https://img.shields.io/badge/Noto CJK-GitBook Plugin-brightgreen.svg)](https://plugins.gitbook.com/plugin/notocjk)
 
 喜歡冰滴咖啡。喜歡自己花 8 小時，慢慢滴下 300 ml 的醇厚。Computer Science 也是相同的概念，不論程式或是文字，都應該是純淬且誠實。
 #### -p [Photography-is-my-second-language](https://www.flickr.com/people/pipergu/)
@@ -33,7 +34,5 @@
       ycku <ycku at csie.org>
 
 ### SEE ALSO
-[![Twitter Follow](https://img.shields.io/twitter/follow/94ycku.svg?style=social&label=Follow)](https://twitter.com/94ycku)
-[![古宅](https://img.shields.io/badge/%E5%8F%A4%E5%AE%85-Blogger-orange.svg)](http://pipergu.blogspot.tw/)
 [![PostgreSQL小島故事](https://img.shields.io/badge/小島故事-PostgreSQL-blue.svg)](https://pgsql-tw.github.io/island/)
 [![PostgreSQL台灣使用者社群](https://img.shields.io/badge/台灣使用者社群-PostgreSQL-blue.svg)](https://pgsql-tw.github.io/)
