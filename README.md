@@ -1,4 +1,4 @@
-![國立臺灣大學博士](https://img.shields.io/badge/Ph.D.-National%20Taiwan%20University-blue.svg)
+![國立臺灣大學博士](https://goo.gl/8B4Fz9)
 ![資策會工程師](https://img.shields.io/badge/Engineer-III-blue.svg)
 ![資料庫系統](https://img.shields.io/badge/Distributed-Database-orange.svg)
 ![底片攝影](https://img.shields.io/badge/Film-Love-red.svg)
