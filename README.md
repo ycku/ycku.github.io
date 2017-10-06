@@ -23,6 +23,7 @@
 喜歡冰滴咖啡。喜歡自己花 8 小時，慢慢滴下 300 ml 的醇厚。Computer Science 也是相同的概念，不論程式或是文字，都應該是純淬且誠實。
 #### -p [Photography-is-my-second-language](https://www.flickr.com/people/pipergu/)
 [![底片攝影](https://img.shields.io/badge/Film-Love-red.svg)](https://www.flickr.com/people/pipergu/)
+
 幸好巧遇了攝影，能夠用影像說話。喜歡黑白多於彩色，因為能擁有更深刻的層次感；喜歡緩慢的節奏，思考自己是否看見了不一樣的世界。
 #### -t [To-be-simple-is-to-be-great](http://pipergu.blogspot.tw/)
 [![古宅](https://img.shields.io/badge/%E5%8F%A4%E5%AE%85-Blogger-orange.svg)](http://pipergu.blogspot.tw/)
