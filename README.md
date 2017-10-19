@@ -84,5 +84,5 @@
         chart_2.draw(dataTable_2);
       }
 </script>
-<div id="experience" style="height: 240px;"></div>
+<div id="experience" style="height: 360px;"></div>
 <div id="education" style="height: 240px;"></div>
