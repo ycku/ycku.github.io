@@ -33,6 +33,53 @@
         {{ content }}
       </section>
     </div>
+    <div>
+---
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+      google.charts.load('current', {'packages':['timeline']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var container_1 = document.getElementById('experience');
+        var chart_1 = new google.visualization.Timeline(container_1);
+        var dataTable_1 = new google.visualization.DataTable();
+
+        dataTable_1.addColumn({ type: 'string', id: 'Period' });
+        dataTable_1.addColumn({ type: 'string', id: 'Label' });
+        dataTable_1.addColumn({ type: 'date', id: 'Start' });
+        dataTable_1.addColumn({ type: 'date', id: 'End' });
+        dataTable_1.addRows([
+          [ '(2017) 台灣PostgreSQL使用者社群創辦人', 'pgSQL-TW', new Date(2017, 6, 1), new Date() ],
+          [ '(2017) 財團法人資訊工業策進會工程師', '資策會數位所', new Date(2017, 9, 1), new Date() ],
+          [ '(2011) 財團法人資訊工業策進會工程師', '資策會創研所', new Date(2011, 12, 11), new Date(2017, 8, 31) ],
+          [ '(2010) 國家運動選手訓練中心體育役', '國訓中心', new Date(2010, 9, 1), new Date(2011, 10, 1) ],
+          [ '(2009) 台灣大學資訊系統訓練班講師', '台大資訊系統訓練班', new Date(2009, 5, 8), new Date(2010, 8, 30) ],
+          [ '(2006) 行政院主計處電子處理資料中心研究員', '行政院主計處電資中心', new Date(2006, 4, 5), new Date(2009, 12, 31) ]
+          ]);
+        chart_1.draw(dataTable_1);
+        
+        var container_2 = document.getElementById('education');
+        var chart_2 = new google.visualization.Timeline(container_2);
+        var dataTable_2 = new google.visualization.DataTable();
+
+        dataTable_2.addColumn({ type: 'string', id: 'Period' });
+        dataTable_2.addColumn({ type: 'string', id: 'Label' });
+        dataTable_2.addColumn({ type: 'date', id: 'Start' });
+        dataTable_2.addColumn({ type: 'date', id: 'End' });
+        dataTable_2.addRows([
+          [ '(2010) Doctor of Philosophy, Department of Computer Science and Information Engineering, National Taiwan University', '臺大資工所博士班', new Date(2004, 9, 1), new Date(2010, 6, 30) ],
+          [ '(2004) Master of Science, Department of Computer Science and Information Engineering, National Taiwan University', '臺大資工所碩士班',new Date(2002, 9, 1),  new Date(2004, 6, 30) ],
+          [ '(2002) Bachelor of Science, Department of Computer Science and Information Engineering, Fu Jen Catholic University', '天主教輔仁大學',  new Date(1998, 9, 1),  new Date(2002, 6, 30) ],
+          [ '(1998) High School, HsinChu Senior High School', '新竹中學',new Date(1995, 9, 1),  new Date(1998, 6, 30) ]
+          ]);
+        chart_2.draw(dataTable_2);
+      }
+</script>
+<div id="experience" style="height: 360px;"></div>
+<div id="education" style="height: 240px;"></div>
+
+    </div>
 
     {% if site.google_analytics %}
       <script type="text/javascript">
