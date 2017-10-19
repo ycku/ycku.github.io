@@ -40,6 +40,9 @@
       google.charts.load('current', {'packages':['timeline']});
       google.charts.setOnLoadCallback(drawChart);
       function drawChart() {
+        var options = {
+            timeline: { backgroundColor: '#000000' },
+        };
         var container_1 = document.getElementById('experience');
         var chart_1 = new google.visualization.Timeline(container_1);
         var dataTable_1 = new google.visualization.DataTable();
@@ -56,7 +59,7 @@
           [ '(2009) 台灣大學資訊系統訓練班講師', '台大資訊系統訓練班', new Date(2009, 5, 8), new Date(2010, 8, 30) ],
           [ '(2006) 行政院主計處電子處理資料中心研究員', '行政院主計處電資中心', new Date(2006, 4, 5), new Date(2009, 12, 31) ]
           ]);
-        chart_1.draw(dataTable_1);
+        chart_1.draw(dataTable_1, options);
         
         var container_2 = document.getElementById('education');
         var chart_2 = new google.visualization.Timeline(container_2);
@@ -72,7 +75,7 @@
           [ '(2002) Bachelor of Science, Department of Computer Science and Information Engineering, Fu Jen Catholic University', '天主教輔仁大學',  new Date(1998, 9, 1),  new Date(2002, 6, 30) ],
           [ '(1998) High School, HsinChu Senior High School', '新竹中學',new Date(1995, 9, 1),  new Date(1998, 6, 30) ]
           ]);
-        chart_2.draw(dataTable_2);
+        chart_2.draw(dataTable_2, options);
       }
 </script>
 <div id="experience" style="height: 360px;"></div>
