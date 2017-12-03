@@ -1,6 +1,5 @@
-![Nobody](https://img.shields.io/badge/Nobody-台灣PostgreSQL使用者社群-blue.svg)
+![Maintainer](https://img.shields.io/badge/Maintainer-台灣PostgreSQL使用者社群-blue.svg)
 ![國立臺灣大學博士](https://goo.gl/8B4Fz9)
-![資策會工程師](https://img.shields.io/badge/Engineer-III-blue.svg)
 ![資料庫系統](https://img.shields.io/badge/Distributed-Database-orange.svg)
 ![熱情推銷員](https://img.shields.io/badge/熱情-推銷員-red.svg)
 ![鐵人三項](https://img.shields.io/badge/Triathlon-Enjoy-brightgreen.svg)
