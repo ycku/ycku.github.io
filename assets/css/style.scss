@@ -2,4 +2,13 @@
 --
 
 @import 'jekyll-theme-hacker';
-@import 'https://highlightjs.org/static/demo/styles/default.css';
+
+@font-face {
+    font-family:'Tanuki Permanent Marker';
+    src: url('/assets/fonts/TanukiMagic.eot');
+	src: url('/assets/fonts/TanukiMagic.eot?#iefix') format('embedded-opentype'),
+		url('/assets/fonts/TanukiMagic.woff2') format('woff2'),
+		url('/assets/fonts/TanukiMagic.woff') format('woff'),
+		url('/assets/fonts/TanukiMagic.svg#Tanuki Permanent Marker') format('svg');
+    unicode-range: U+0020-00FE;
+}
