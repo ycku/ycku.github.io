@@ -12,3 +12,7 @@
 		url('/assets/fonts/TanukiMagic.svg#Tanuki Permanent Marker') format('svg');
     unicode-range: U+0020-00FE;
 }
+
+body, h1, h2, h3 {
+	font-family:'Tanuki Permanent Marker';
+}
