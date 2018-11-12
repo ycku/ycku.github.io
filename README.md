@@ -1,4 +1,4 @@
-![Manager](https://img.shields.io/badge/Maintainer-台灣PostgreSQL使用者社群-blue.svg)
+![Manager](https://img.shields.io/badge/Manager-台灣PostgreSQL使用者社群-blue.svg)
 ![國立臺灣大學博士](https://img.shields.io/badge/Ph.D.-National%20Taiwan%20University-blue.svg)
 ![資料庫系統](https://img.shields.io/badge/Database-System-orange.svg)
 ![鐵人三項](https://img.shields.io/badge/Triathlon-Enjoy-brightgreen.svg)
@@ -33,4 +33,4 @@
 ### SEE ALSO
 [![PostgreSQL台灣使用者社群](https://img.shields.io/badge/台灣使用者社群-PostgreSQL-blue.svg)](https://postgresql.tw/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/94ycku.svg?style=social&label=Follow)](https://twitter.com/94ycku)
-[![pitches](https://img.shields.io/badge/Pitch%20My%20Passion-YC.KU-orange.svg)](http://ycku.csie.org/pitches/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-YC.KU-orange.svg)](https://www.linkedin.com/in/ycku/)
