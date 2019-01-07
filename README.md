@@ -1,8 +1,8 @@
 ![Manager](https://img.shields.io/badge/Manager-台灣PostgreSQL使用者社群-blue.svg)
 ![國立臺灣大學博士](https://img.shields.io/badge/Ph.D.-National%20Taiwan%20University-blue.svg)
-![資料庫系統](https://img.shields.io/badge/Database-System-orange.svg)
+![資料庫系統](https://img.shields.io/badge/Database-職人-orange.svg)
 ![鐵人三項](https://img.shields.io/badge/Triathlon-Enjoy-brightgreen.svg)
-![高氧潛水員](https://img.shields.io/badge/Enriched%20Air-Scuba-yellow.svg)
+![高氧潛水員](https://img.shields.io/badge/Enriched%20Air--yellow.svg)
 ![Coffee](https://img.shields.io/badge/手沖咖啡-心情-brightgreen.svg)
 
 ### NAME
