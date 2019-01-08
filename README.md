@@ -1,4 +1,4 @@
-![Manager](https://img.shields.io/badge/Manager-台灣PostgreSQL使用者社群-blue.svg)
+![Manager](https://img.shields.io/badge/招集人-台灣PostgreSQL使用者社群-blue.svg)
 ![國立臺灣大學博士](https://img.shields.io/badge/Ph.D.-National%20Taiwan%20University-blue.svg)
 ![資料庫系統](https://img.shields.io/badge/Database-職人-orange.svg)
 ![鐵人三項](https://img.shields.io/badge/Triathlon-Enjoy-brightgreen.svg)
@@ -9,8 +9,8 @@
      ycku - Yung-Chung Ku (古永忠)
 
 ### Personal Edition
-- [古德奈特](https://medium.com/ycku) ([古哥](https://medium.com/@ycku))
-- [Photograpy is my second language](https://www.flickr.com/people/pipergu/)
+   :smirk: [古德奈特](https://medium.com/ycku) ([古哥](https://medium.com/@ycku))
+   :sunglasses: [Photograpy is my second language](https://www.flickr.com/people/pipergu/)
 
 ### Community Edition
 - [Github](https://github.com/ycku/)
