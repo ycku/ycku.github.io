@@ -9,7 +9,7 @@
      ycku - Yung-Chung Ku (古永忠)
 
 ### Personal Edition
-   :smirk: [古德奈特](https://medium.com/ycku) ([古哥](https://medium.com/@ycku))
+   :smirk: [古德奈特](https://medium.com/ycku) ([古哥](https://medium.com/@ycku)) <br/>
    :sunglasses: [Photograpy is my second language](https://www.flickr.com/people/pipergu/)
 
 ### Community Edition
