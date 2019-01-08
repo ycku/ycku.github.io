@@ -2,3 +2,6 @@ theme: jekyll-theme-hacker
 
 title: ycku
 google_analytics: UA-107092-18
+
+plugins:
+  - jemoji
