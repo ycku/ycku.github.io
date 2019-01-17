@@ -13,11 +13,11 @@
    :sunglasses: [Photograpy is my second language](https://www.flickr.com/people/pipergu/)
 
 ### Community Edition
-   :heartbeat: [Github](https://github.com/ycku/) <br/>
+   :heartbeat: [Github Profile](https://github.com/ycku/) <br/>
    :elephant: [PostgreSQL小島故事](https://medium.com/pgsql-tw)
 
 ### Enterprise Edition
-   :coffee: [LinkedIn](https://www.linkedin.com/in/ycku/)
+   :coffee: [LinkedIn](https://www.linkedin.com/in/ycku/): 資料庫職人 / 講演人 / 社群工作者
 
 ### KNOWN ISSUES
       老古板一個。
