@@ -17,7 +17,7 @@
    :elephant: [PostgreSQL小島故事](https://medium.com/pgsql-tw)
 
 ### Enterprise Edition
-   :coffee: [LinkedIn](https://www.linkedin.com/in/ycku/): 資料庫職人 / 講演人 / 社群工作者
+   :coffee: [資料庫職人 / 講演人 / 社群工作者](https://www.linkedin.com/in/ycku/)
 
 ### KNOWN ISSUES
       老古板一個。
