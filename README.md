@@ -1,4 +1,4 @@
-![Manager](https://img.shields.io/badge/招集人-台灣PostgreSQL使用者社群-blue.svg?logo=postgresql)
+![Manager](https://img.shields.io/badge/召集人-台灣PostgreSQL使用者社群-blue.svg?logo=postgresql)
 ![國立臺灣大學博士](https://img.shields.io/badge/Ph.D.-National%20Taiwan%20University-blue.svg?logo=linux)
 ![資料庫系統](https://img.shields.io/badge/Database-職人-orange.svg?logo=postgresql)
 ![鐵人三項](https://img.shields.io/badge/Triathlon-Enjoy-brightgreen.svg?logo=strava)
@@ -10,7 +10,7 @@
 
 ### Personal Edition
    :smirk: [講古](https://medium.com/ycku) ([古哥](https://medium.com/@ycku)) <br/>
-   :sunglasses: [Photograpy is my second language](https://www.flickr.com/people/pipergu/)<br/>
+   :camera: [Photograpy is my second language](https://www.flickr.com/people/pipergu/)<br/>
    :books: [Goodreads](https://www.goodreads.com/ycku)
 
 ### Community Edition
