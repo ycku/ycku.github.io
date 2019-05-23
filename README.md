@@ -10,7 +10,7 @@
 
 ### Personal Edition
    :smirk: [講古](https://medium.com/ycku) ([古哥](https://medium.com/@ycku)) <br/>
-   :sunglasses: [Photograpy is my second language](https://www.flickr.com/people/pipergu/)
+   :sunglasses: [Photograpy is my second language](https://www.flickr.com/people/pipergu/)<br/>
    :books: [Goodreads](https://www.goodreads.com/ycku)
 
 ### Community Edition
