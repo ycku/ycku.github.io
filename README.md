@@ -9,11 +9,12 @@
      ycku - Yung-Chung Ku (古永忠)
 
 ### Personal Edition
-   :smirk: [古德奈特](https://medium.com/ycku) ([古哥](https://medium.com/@ycku)) <br/>
+   :smirk: [講古](https://medium.com/ycku) ([古哥](https://medium.com/@ycku)) <br/>
    :sunglasses: [Photograpy is my second language](https://www.flickr.com/people/pipergu/)
+   :books: [Goodreads](https://www.goodreads.com/ycku)
 
 ### Community Edition
-   :heartbeat: [Github Profile](https://github.com/ycku/) <br/>
+   :octocat: [Github Profile](https://github.com/ycku/) <br/>
    :elephant: [PostgreSQL小島故事](https://medium.com/pgsql-tw)
 
 ### Enterprise Edition
