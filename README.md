@@ -4,6 +4,23 @@
 ![鐵人三項](https://img.shields.io/badge/Triathlon-Enjoy-brightgreen.svg?logo=strava)
 ![高氧潛水員](https://img.shields.io/badge/Enriched%20Air-深海-yellow.svg)
 ![Coffee](https://img.shields.io/badge/手沖咖啡-心情-brightgreen.svg)
+<br/>
+<script language='javascript'>
+function printLanguages() {
+  var responseObj = JSON.parse(this.responseText);
+  var languages = {};
+  responseObj.forEach(function(item, index, array){
+      if (item.language != null) {
+        languages[item.language] = 1;
+      }
+  });
+  document.write(Object.keys(languages).join(' - '));
+}
+var request = new XMLHttpRequest();
+request.onload = printLanguages;
+request.open('get', 'https://api.github.com/users/ycku/repos', true)
+request.send()
+</script>
 
 ### NAME
      ycku - Yung-Chung Ku (古永忠)
