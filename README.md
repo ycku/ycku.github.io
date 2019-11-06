@@ -18,7 +18,25 @@
    :elephant: [PostgreSQL小島故事](https://medium.com/pgsql-tw)
 
 ### Enterprise Edition
-   :coffee: [資料庫職人 / 講演人 / 社群工作者](https://www.linkedin.com/in/ycku/)
+   :coffee: [資料庫研究者 / 資料工程師 / 社群倡議人](https://www.linkedin.com/in/ycku/)
+#### PUBLIC SPEAKING
+   - 你媽知道你在用 PostgreSQL 看 PTT 嗎？- COSCUP (2019)
+   - 決策導向的系統記錄 - 輔仁大學 (2019)
+   - Bounded response time database - 輔仁大學 (2018)
+   - PostgreSQL as a Log database - COSCUP (2018)
+   - 拋磚引玉(蝦で鯛を釣る) - Japan PostgreSQL User Group (2018)
+   - 資料庫系統理論與實務 - 自強基金會 (2018)
+   - PostgreSQL串連大數據 - 自強基金會 (2017)
+   - 底片攝影與數位創新 - 亞東技術學院 (2017)
+   - OPEN SOURCE - 輔仁大學 (2017)
+   - 開源資料庫PostgreSQL - 自強基金會 (2017)
+   - Open source economy - 國立成功大學 (2016)
+   - Data dividend and Database system - 國立成功大學 (2016)
+   - NewSQL, New database era - 輔仁大學 (2016)
+   - Introduction to Data Community - 國立成功大學 (2016)
+   - 雲端資料庫 - 亞洲大學 (2015)
+   - A home for your data community - 國立成功大學 (2014)
+   - 雲端資料庫應用 - 亞洲大學 (2013)
 
 ### KNOWN ISSUES
       老古板一個。
