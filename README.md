@@ -9,16 +9,16 @@
      ycku - Yung-Chung Ku (古永忠)
 
 ### Personal Edition
-   :smirk: [講古](https://medium.com/ycku) ([古哥](https://medium.com/@ycku)) <br/>
-   :camera: [Photograpy is my second language](https://www.flickr.com/people/pipergu/)<br/>
-   :books: [Goodreads](https://www.goodreads.com/ycku)
+   :coffee: [講古](https://medium.com/ycku) ([古哥](https://medium.com/@ycku)) <br/>
+   :coffee: [Photograpy is my second language](https://www.flickr.com/people/pipergu/)<br/>
+   :coffee: [Goodreads](https://www.goodreads.com/ycku)
 
 ### Community Edition
-   :octocat: [Github Profile](https://github.com/ycku/) <br/>
-   :elephant: [PostgreSQL小島故事](https://medium.com/pgsql-tw)
+   :coffee: [Github Profile](https://github.com/ycku/) <br/>
+   :coffee: [PostgreSQL小島故事](https://medium.com/pgsql-tw)
 
 ### Enterprise Edition
-   :coffee: [資料庫研究者 / 資料工程師 / 社群倡議人](https://www.linkedin.com/in/ycku/)
+   :coffee: [LinkedIn Profile: 資料庫研究者 / 資料工程師 / 社群倡議人](https://www.linkedin.com/in/ycku/)
 #### PUBLIC SPEAKING
    - 你媽知道你在用 PostgreSQL 看 PTT 嗎？- COSCUP (2019)
    - 決策導向的系統記錄 - 輔仁大學 (2019)
