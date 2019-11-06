@@ -45,6 +45,7 @@
       ycku <ycku at csie.org>
 
 ### SEE ALSO
+[![GitHub followers](https://img.shields.io/github/followers/ycku?style=social)](https://github.com/ycku)
 [![Twitter Follow](https://img.shields.io/twitter/follow/94ycku.svg?style=social&label=Follow)](https://twitter.com/94ycku)
 [![PostgreSQL台灣使用者社群](https://img.shields.io/badge/台灣使用者社群-PostgreSQL-blue.svg?logo=postgresql)](https://postgresql.tw/)
 [![PostgreSQL正體中文使用手冊](https://img.shields.io/badge/正體中文使用手冊-PostgreSQL-blue.svg?logo=postgresql)](https://docs.postgresql.tw/)
