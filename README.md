@@ -4,7 +4,7 @@
 ![鐵人三項](https://img.shields.io/badge/Triathlon-Enjoy-brightgreen.svg?logo=strava)
 ![高氧潛水員](https://img.shields.io/badge/Enriched%20Air-深海-yellow.svg)
 ![Coffee](https://img.shields.io/badge/手沖咖啡-心情-brightgreen.svg)
-<div id="languages"></div>
+<div id="languages"></div><br/><br/>
 <script language='javascript'>
 function printLanguages() {
   var responseObj = JSON.parse(this.responseText);
