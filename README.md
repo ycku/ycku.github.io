@@ -9,7 +9,7 @@
      ycku - Yung-Chung Ku (古永忠)
 
 ### LANGUAGES
-<span id="languages"></span>
+<span id="githublangs"></span>
 <script language='javascript'>
 function printLanguages() {
   var responseObj = JSON.parse(this.responseText);
@@ -19,7 +19,7 @@ function printLanguages() {
         languages[item.language] = 1;
       }
   });
-  document.getElementById("languages").innerText = Object.keys(languages).join(' - ');
+  document.getElementById("githublangs").innerText = Object.keys(languages).join(' - ');
 }
 var request = new XMLHttpRequest();
 request.onload = printLanguages;
