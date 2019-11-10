@@ -40,6 +40,8 @@ request.send()
 ### Enterprise Edition
    :coffee: [資料庫研究者 / 資料工程師 / 社群倡議人](https://www.linkedin.com/in/ycku/)
 #### PUBLIC SPEAKING
+   - お天気ですか？教えて下さい、Postgres - OSC 2019 Tokyo/Fall (2019)
+   - 資訊技術的老二哲學 - 輔仁大學 (2019)
    - 你媽知道你在用 PostgreSQL 看 PTT 嗎？- COSCUP (2019)
    - 決策導向的系統記錄 - 輔仁大學 (2019)
    - Bounded response time database - 輔仁大學 (2018)
