@@ -3,6 +3,18 @@
 
 @import 'jekyll-theme-hacker';
 
+html {
+            height: 100%;
+}
+
+body {
+            background-image: url('https://live.staticflickr.com/766/20682488799_e72d851127_3k_d.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;
+}
+
 @font-face {
     font-family:'Tanuki Permanent Marker';
     src: url('/assets/fonts/TanukiMagic.eot');
