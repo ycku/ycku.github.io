@@ -1,18 +1,14 @@
---
---
-
-@import 'jekyll-theme-hacker';
-
 html {
-            height: 100%;
+	height: 100%;
 }
 
 body {
-            background-image: url('https://live.staticflickr.com/766/20682488799_e72d851127_3k_d.jpg');
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-            background-position: center;
-            background-size: cover;
+    background-image: url('https://live.staticflickr.com/5587/31721562846_39170b38d6_6k_d.jpg');
+	background-color: black;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
 }
 
 @font-face {
@@ -28,3 +24,4 @@ body {
 body, h1, h2, h3 {
 	font-family:'Tanuki Permanent Marker';
 }
+

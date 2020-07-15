@@ -1,16 +1,31 @@
 <html>
 <head>
+<title>YCKU</title>
 <style>
 html {
 	height: 100%;
 }
 
 body {
+    /* background-image: url('https://live.staticflickr.com/5587/31721562846_39170b38d6_6k_d.jpg'); */
 	background-color: black;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
 	background-size: cover;
+}
+
+.footer {
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	position: fixed;
+	bottom: 0;
+	left:0;
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-weight: bold;
 }
 </style>
 <script language='javascript'>
@@ -28,8 +43,10 @@ function refresh_me() {
 </script>
 </head>
 <body>
-<a href='#' onclick='refresh_me(); return false;'><img src='assets/profile.png'/ height=64></a>
+<a href='#' onclick='refresh_me(); return false;'><img src='assets/profile.png'/ height=64 /></a>
+<div class='footer'>YCKU - 解決發現問題的人</div>
 <script language='javascript'>
 	refresh_me();
 </script>
+
 </body>
