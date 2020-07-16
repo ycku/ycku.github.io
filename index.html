@@ -28,6 +28,24 @@ body {
 	text-align: center;
 	font-weight: bold;
 }
+
+.switch_button {
+	position: fixed;
+	top: 10%;
+	right: 10%;
+}
+
+#wrapper {
+	width: 40%;
+	position: fixed;
+	left: 30%;
+	top: 10%;
+	height: 70%;
+	border: 3px solid black;
+	background-color: rgba(0,0,0,0.5);
+	display: block;
+	visibility: hidden;
+}
 </style>
 <script language='javascript'>
 function refresh_me() {
@@ -40,12 +58,25 @@ function refresh_me() {
 		      'https://live.staticflickr.com/5587/31721562846_39170b38d6_6k_d.jpg'];
 	var img_idx=Math.floor(Math.random() * imgs.length); 
 	document.body.style.backgroundImage = "url('"+imgs[img_idx]+"')";
+	return false;
+}
+
+function switch_wrapper() {
+	var status=document.getElementById('wrapper').style.visibility;
+	if (status=='hidden' || status==false) {
+		document.getElementById('wrapper').style.visibility='visible';
+	} else {
+		document.getElementById('wrapper').style.visibility='hidden';
+	}
+	return false;
 }
 </script>
 </head>
 <body>
-<a href='#' onclick='refresh_me(); return false;'><img src='assets/profile.png'/ height=64 /></a>
-<div class='footer'>YCKU - 解決發現問題的人</div>
+<a href='#' onclick='refresh_me();'><img src='assets/profile.png'/ height=64 /></a>
+<div id='wrapper'></div>
+<a href='#' onclick='switch_wrapper();' class='switch_button'><img src='assets/profile2.png' height=64/></a>
+<div class='footer'>解決不了問題，就解決發現問題的人</div>
 <script language='javascript'>
 	refresh_me();
 </script>
