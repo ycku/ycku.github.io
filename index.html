@@ -70,7 +70,7 @@ function switch_wrapper() {
 	var status=document.getElementById('wrapper').style.visibility;
 	if (status=='hidden' || status==false) {
 		var n=Math.floor(Math.random()*max_post_number);
-		document.getElementById('wrapper').innerHTML=loadFile('posts/'+n.padStart(3, '0')+'.html');
+		document.getElementById('wrapper').innerHTML=loadFile('posts/'+n.toString().padStart(3, '0')+'.html');
 		document.getElementById('wrapper').style.visibility='visible';
 	} else {
 		document.getElementById('wrapper').style.visibility='hidden';
