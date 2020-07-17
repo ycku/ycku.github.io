@@ -68,21 +68,33 @@ function refresh_me() {
 function switch_wrapper() {
 	var status=document.getElementById('wrapper').style.visibility;
 	if (status=='hidden' || status==false) {
+		document.getElementById('wrapper').innerHTML=loadFile('posts/000.html');
 		document.getElementById('wrapper').style.visibility='visible';
 	} else {
 		document.getElementById('wrapper').style.visibility='hidden';
 	}
 	return false;
 }
+
+function loadFile(filePath) {
+  var result = null;
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.open("GET", filePath, false);
+  xmlhttp.send();
+  if (xmlhttp.status==200) {
+    result = xmlhttp.responseText;
+  }
+  return result;
+}
 </script>
 </head>
 <body>
 <a href='#' onclick='refresh_me();'><img src='assets/profile.png'/ height=64 /></a>
-<div id='wrapper'>在非洲，每60秒，就有一分鐘過去。</div>
+<div id='wrapper'></div>
 <a href='#' onclick='switch_wrapper();' class='switch_button'><img src='assets/profile2.png' height=64/></a>
+
 <div class='footer'>解決不了問題，就解決發現問題的人</div>
 <script language='javascript'>
 	refresh_me();
 </script>
-
 </body>
