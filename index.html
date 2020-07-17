@@ -66,9 +66,11 @@ function refresh_me() {
 }
 
 function switch_wrapper() {
+	var max_post_number=0;
 	var status=document.getElementById('wrapper').style.visibility;
 	if (status=='hidden' || status==false) {
-		document.getElementById('wrapper').innerHTML=loadFile('posts/000.html');
+		var n=Math.floor(Math.random()*max_post_number);
+		document.getElementById('wrapper').innerHTML=loadFile('posts/'+n.padStart(3, '0')+'.html');
 		document.getElementById('wrapper').style.visibility='visible';
 	} else {
 		document.getElementById('wrapper').style.visibility='hidden';
