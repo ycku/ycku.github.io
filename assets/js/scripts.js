@@ -1,4 +1,3 @@
-<script language='javascript'>
 function refresh_me() {
 	var imgs=[['https://live.staticflickr.com/4224/34859073682_6521c98097_k_d.jpg','https://flic.kr/p/V7nS8L'],
 	          ['https://live.staticflickr.com/2928/33836158865_9967ed0b7b_k_d.jpg','https://flic.kr/p/TxZacp'],
@@ -40,4 +39,4 @@ function loadFile(filePath) {
   }
   return result;
 }
-</script>
+
