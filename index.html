@@ -86,7 +86,6 @@ a, a:hover, a:visited {
 	color: white;
 }
 </style>
-<script src='assets/js/scripts.js' defer></script>
 </head>
 <body>
 <a href='#' onclick='refresh_me(); return false;'><img src='assets/profile1.png'/ height=64 /></a>
@@ -99,7 +98,11 @@ a, a:hover, a:visited {
 
 <div class='footer'>只是湊巧顯示了這一頁</div>
 <script language='javascript'>
-	refresh_me();
-	switch_wrapper();
+	var myScript = document.createElement('script'); 
+	myScript.src = 'assets/js/scripts.js';
+	myScript.onload = function() { 
+  		refresh_me();
+		switch_wrapper();
+	};
 </script>
 </body>
