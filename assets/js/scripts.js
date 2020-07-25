@@ -19,7 +19,7 @@ function refresh_me() {
 function switch_wrapper() {
 	var max_post_number=6;
 	var status=document.getElementById('wrapper').style.visibility;
-	if (status=='hidden' || status==false) {
+	if (status!='visible') {
 		var n=Math.floor(Math.random()*(max_post_number+1));
 		document.getElementById('wrapper').innerHTML=loadFile('posts/'+n.toString().padStart(3, '0')+'.html');
 		document.getElementById('wrapper').style.visibility='visible';
