@@ -17,7 +17,7 @@ function refresh_me() {
 }
 
 function switch_wrapper() {
-	var max_post_number=5;
+	var max_post_number=6;
 	var status=document.getElementById('wrapper').style.visibility;
 	if (status=='hidden' || status==false) {
 		var n=Math.floor(Math.random()*(max_post_number+1));
