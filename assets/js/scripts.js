@@ -40,3 +40,5 @@ function loadFile(filePath) {
   	return result;
 }
 
+refresh_me();
+switch_wrapper();
