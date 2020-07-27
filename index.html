@@ -63,7 +63,6 @@ p {
 	height: 60%;
 	background-color: rgba(0,0,0,0.5);
 	display: block;
-	visibility: hidden;
 	font-size: 150%;
 	color: white;
 	padding: 50px;
@@ -89,6 +88,7 @@ a, a:hover, a:visited {
 	myScript.src = 'assets/js/scripts.js';
 	myScript.onload = function() { 
   		refresh_me();
+		document.getElementById('wrapper').style.visibility='hidden';
 		switch_wrapper();
 	};
 	document.body.appendChild(myScript);
