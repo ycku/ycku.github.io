@@ -85,12 +85,17 @@ a, a:hover, a:visited {
 
 <div class='footer'>只是湊巧顯示了這一頁 &copy;YCKU</div>
 <script language='javascript'>
-	var myScript = document.createElement('script'); 
-	myScript.src = 'assets/js/scripts.js';
-	myScript.onload = function() { 
-  		refresh_me();
-		switch_wrapper();
-	};
-	document.body.appendChild(myScript);
+var myScript = document.createElement('script'); 
+myScript.src = 'assets/js/scripts.js';
+myScript.onload = function() { 
+ 	refresh_me();
+	switch_wrapper();
+};
+document.body.appendChild(myScript);
+
+document.addEventListener('swiped-right', function(e) {
+    switch_wrapper();
+    switch_wrapper(); 
+});
 </script>
 </body>
