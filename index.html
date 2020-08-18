@@ -93,7 +93,8 @@ myScript.onload = function() {
 };
 document.body.appendChild(myScript);
 
-document.addEventListener('swiped-right', function(e) {
+document.getElementById('wrapper').addEventListener('swiped-right', function(e) {
+	alert('swiped-right');
     switch_wrapper();
     switch_wrapper(); 
 });
