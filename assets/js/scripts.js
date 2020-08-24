@@ -8,7 +8,8 @@ function refresh_me() {
 		  ['https://live.staticflickr.com/3800/12135293575_ed73159f8d_k_d.jpg','https://flic.kr/p/jumxZz'],
 		  ['https://live.staticflickr.com/5669/21946242500_258ab7f529_k_d.jpg','https://flic.kr/p/zrjeio'],
 		  ['https://live.staticflickr.com/320/19809339908_85b852fc18_k_d.jpg','https://flic.kr/p/wbu3Bf'],
-		  ['https://live.staticflickr.com/757/20682474309_2b8c89a8ee_k_d.jpg','https://flic.kr/p/xvD63D']];
+		  ['https://live.staticflickr.com/757/20682474309_2b8c89a8ee_k_d.jpg','https://flic.kr/p/xvD63D'],
+		  ['https://live.staticflickr.com/1447/24701230340_077c448336_k_d.jpg','https://flic.kr/p/DCLgcJ']];
 	var img_idx=Math.floor(Math.random() * imgs.length); 
 	document.body.style.backgroundImage = "url('"+imgs[img_idx][0]+"')";
 	document.getElementById('image_link').href=imgs[img_idx][1];
