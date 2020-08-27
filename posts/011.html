@@ -1,0 +1,23 @@
+<h1>程式語言</h1>
+<p>
+<span id="githublangs"></span>
+<script language='javascript'>
+function printLanguages() {
+  var responseObj = JSON.parse(this.responseText);
+  var languages = {};
+  responseObj.forEach(function(item, index, array){
+      if (item.language != null) {
+        languages[item.language] = 1;
+      }
+  });
+  document.getElementById("githublangs").innerText = Object.keys(languages).join(' - ');
+}
+var request = new XMLHttpRequest();
+request.onload = printLanguages;
+request.open('get', 'https://api.github.com/users/ycku/repos', true)
+request.send()
+</script>
+</p>
+<p style='font-style:italic'>
+<a href='https://github.com/ycku'>#OpenSource</a>
+</p>
