@@ -8,26 +8,6 @@
 ### NAME
      ycku - Yung-Chung Ku (古永忠)
 
-### LANGUAGES
-<span id="githublangs"></span>
-<script language='javascript'>
-function printLanguages() {
-  var responseObj = JSON.parse(this.responseText);
-  var languages = {};
-  responseObj.forEach(function(item, index, array){
-      if (item.language != null) {
-        languages[item.language] = 1;
-      }
-  });
-  document.getElementById("githublangs").innerText = Object.keys(languages).join(' - ');
-}
-var request = new XMLHttpRequest();
-request.onload = printLanguages;
-request.open('get', 'https://api.github.com/users/ycku/repos', true)
-request.send()
-</script>
-
-
 ### Personal Edition
    :coffee: [講古](https://medium.com/ycku) ([古哥](https://medium.com/@ycku)) <br/>
    :coffee: [Photograpy is my second language](https://www.flickr.com/people/pipergu/)<br/>
